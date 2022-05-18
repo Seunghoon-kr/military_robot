@@ -42,6 +42,15 @@ Course 5. 기지 복귀 능력
 
 #### 2. Auto driving
 
-<img src="https://user-images.githubusercontent.com/94532350/169049327-ab76e5a3-bbd8-4ec6-be32-d2abd2064ed8.png" width="500" height="200">
+> - Road line (Camera)
+>> <img src="https://user-images.githubusercontent.com/94532350/169049327-ab76e5a3-bbd8-4ec6-be32-d2abd2064ed8.png" width="500" height="200">
 
+> - (Lidar)
+>> <img src="https://user-images.githubusercontent.com/94532350/169049657-3193a854-c4bd-42b0-ad2e-03bbfb4d2330.png" width="500" height="100">
+
+> - (Lidar)
+>> <img src="https://user-images.githubusercontent.com/94532350/169049671-5a233a84-e7e8-4ae4-adc1-d19b63867a21.png" width="500" height="100">
+
+> - Object detection (Camera)
+>> <img src="https://user-images.githubusercontent.com/94532350/169049687-6b748868-8220-48c6-be61-90a180b656a1.png" width="500" height="110">
 
