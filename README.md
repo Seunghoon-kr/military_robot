@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/94532350/169046372-bd7713b9-0e67-470d-a8ab-8487d997d7b2.jpg" width="300" height="450">
+<img src="https://user-images.githubusercontent.com/94532350/169046372-bd7713b9-0e67-470d-a8ab-8487d997d7b2.jpg" width="300" height="430">
 
 # military_robot
 2021.08-2021.12
@@ -41,3 +41,7 @@ Course 5. 기지 복귀 능력
 #### 1. Remote driving
 
 #### 2. Auto driving
+
+<img src="https://user-images.githubusercontent.com/94532350/169049327-ab76e5a3-bbd8-4ec6-be32-d2abd2064ed8.png" width="500" height="200">
+
+
