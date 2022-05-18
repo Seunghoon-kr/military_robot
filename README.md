@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/94532350/169046372-bd7713b9-0e67-470d-a8ab-8487d997d7b2.jpg" width="300" height="450">
+
 # military_robot
 2021.08-2021.12
 
