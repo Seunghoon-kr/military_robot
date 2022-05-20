@@ -40,7 +40,7 @@ Course 5. 기지 복귀 능력
 
 #### 1. Remote driving
 
-#### 2. Auto driving
+#### 2. Auto driving algorithm storyline
 
 > - Road line (Camera)
 >> <img src="https://user-images.githubusercontent.com/94532350/169049327-ab76e5a3-bbd8-4ec6-be32-d2abd2064ed8.png" width="500" height="200">
